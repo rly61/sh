@@ -1,4 +1,4 @@
-# 源地址：https://raw.githubusercontent.com/teddysun/across/master/kms.sh
+# 源地址：https://github.com/teddysun/across/blob/master/kms.sh
 
 #!/usr/bin/env bash
 #
